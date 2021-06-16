@@ -1,7 +1,3 @@
-.ff{
-  font-family: 'Pinyon Script';
-}
-
 .bold-span{
   font-weight: bold;
 }
@@ -39,11 +35,16 @@ footer{
 .ue-icon{
   width: 100%;
   margin: auto;
+  max-width: 250px;
 }
 
 .ue{
   border-top:2px solid rgba(255,255,255,.5);
 }
 
+.logo{
+  width:100%;
+  height:auto;
+}
 
 /*# sourceMappingURL=style.css.map */
